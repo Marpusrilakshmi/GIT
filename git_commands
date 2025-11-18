@@ -1,0 +1,9 @@
+git branch
+git checkout brnachname
+git checkout -b branchname
+git pull
+git fetch
+git push
+git clone url
+git checkout -d deltebranchname
+git log commit id
